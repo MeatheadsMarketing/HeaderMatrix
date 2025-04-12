@@ -1,0 +1,15 @@
+{
+  "assistant":"HeaderMatrix",
+  "description":"Modular assistant for schema governance and applet validation",
+  "included_files":[
+    "Applet_Matrix.csv",
+    "run_ui.py",
+    "header_matrix_manifest.json"
+  ],
+  "tabs":[
+    "Applet Explorer",
+    "Column Validator",
+    "Audit History Viewer",
+    "Upgrade Recommender"
+  ]
+}
