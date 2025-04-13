@@ -1,0 +1,24 @@
+Column Header,Field Type
+Applet Name,core
+Parent Workflow,core
+Execution Phase,core
+Order,core
+Status,core
+Trigger Condition,core
+Input Intent,core
+Output Goal,core
+Context Scope,core
+Assistant Dependency,core
+Strategic Layer,core
+Monetization Role,core
+Impact Score (Export Quality),core
+Reuse Score,core
+Reuse Context,core
+Profit Layer Enabled,core
+Last Run Timestamp,core
+Run Success,core
+Runtime (ms),core
+Output File(s),core
+AI Dependency,tab-specific
+Self-Validation Enabled,tab-specific
+Output Destination,tab-specific
